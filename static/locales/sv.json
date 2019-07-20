@@ -3,16 +3,16 @@
     "title": "Jack's blog"
   },
   "nav":{
-    "home": "Home",
-    "about_me": "About",
+    "home": "Hem",
+    "about_me": "Om",
     "skills": "Skills",
-    "projects": "Projects",
-    "career": "Career",
-    "blog": "Blog",
-    "link": "Link"
+    "projects": "Projekt",
+    "career": "Karriär",
+    "blog": "Blogg",
+    "link": "Länkar"
   },
   "about_me":{
-    "about_me": "About Me",
+    "about_me": "Om mig",
     "des": ""
   },
   "skills":{
