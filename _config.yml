@@ -11,9 +11,9 @@ img_path: /emilingemarkarlsson.github.io/static/assets/img/blog  # url should be
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: GitHub  # Be used at blog posts' author.
-  first_name: Hub  # Be used at index page about me section.
-  last_name: Git  # Be used at index page about me section.
+  name: Emil  # Be used at blog posts' author.
+  first_name: Emil  # Be used at index page about me section.
+  last_name: Karlsson  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: emilingemarkarlsson  # Leave blank if you don't have now
   linkedin_id:  # Leave blank if you don't have now
@@ -23,11 +23,11 @@ author:  # change following line to your infomation.
   cv:  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-apache
-    - name: fa-linux
+    - name: fas fa-code
+    - name: fas fa-briefcase
   skill_icon2:
-    - name: fa-linux
-    - name: icon-apache
+    - name: fa-apple
+    - name: icon-database
   desc: Introduce myself will be here.  # Describe yourself.
 
 # comment

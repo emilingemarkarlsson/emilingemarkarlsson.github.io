@@ -1,22 +1,22 @@
 {
   "website":{
-    "title": "Jack's blog"
+    "title": "Jack's site"
   },
   "nav":{
     "home": "Hem",
     "about_me": "Om",
-    "skills": "Skills",
+    "skills": "Kompetens",
     "projects": "Projekt",
     "career": "Karriär",
     "blog": "Blogg",
-    "link": "Länkar"
+    "link": "Kontakt"
   },
   "about_me":{
     "about_me": "Om mig",
     "des": ""
   },
   "skills":{
-    "my_skills": "My Skills"
+    "my_skills": "Kompetens"
   },
   "projects":{
     "my_projects": "My Projects",
@@ -25,7 +25,7 @@
     "familycode": "This is another project."
   },
   "career":{
-    "my_career": "My Career",
+    "my_career": "Karriär",
     "nextcode": "Nextcode",
     "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
     "nextcode_date": "Apr. 2016",
@@ -44,11 +44,11 @@
     "college_job": "Student"
   },
   "blog":{
-    "my_blog": "My Blog"
+    "my_blog": "Blog"
   },
   "link":{
-    "link": "Link",
-    "view": "views"
+    "link": "Kontakt",
+    "view": "Visningar"
   }
 
 }

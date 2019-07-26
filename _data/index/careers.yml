@@ -1,30 +1,72 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: XLENT Jönköping
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: We help our customers connect business and technology, and realize ideas in their IT solutions. And we do it in many different ways.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Sep. 2019
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Consultant
     i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: EVRY
+    i18n: company_b
+  desc:
+    detail: Evry is a consultant company that partner with customers to create digital advantage. I was responsible for service desk delivery and employees.
+    i18n: company_b_desc
+  date:
+    detail: Jan. 2019
+    i18n: company_b_date
+  job:
+    detail: Head of Section
+    i18n: company_b_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
+    detail: EVRY
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: I was responsible for the delivery of IT infrastructure to five different customers in the retail, manufacturing and real estate industry.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Mar. 2017
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Service Manager
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Jönköping University
+    i18n: company_b
+  desc:
+    detail: At Jönköpings University, I was lucky enough to stimulate innovative thinking by developing and implementing relevant tools and sharing best practices.
+    i18n: company_b_desc
+  date:
+    detail: Aug. 2016
+    i18n: company_b_date
+  job:
+    detail: Innovation Manager
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Tuva
+    i18n: company_b
+  desc:
+    detail: As founder together with my team we help Neighborhoods to improve internal and external communications and operate on the cross point of three major trends, Digital transformation, Internet of things and security.
+    i18n: company_b_desc
+  date:
+    detail: Aug. 2015
+    i18n: company_b_date
+  job:
+    detail: Startup founder
     i18n: company_b_job
   icon: fa-plus-square
