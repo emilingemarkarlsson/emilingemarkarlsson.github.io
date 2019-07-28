@@ -19,10 +19,10 @@
     "my_skills": "Kompetens"
   },
   "projects":{
-    "my_projects": "My Projects",
+    "my_projects": "Några saker jag jobbar med",
     "jalpc": "Mina kod projekt",
-    "bubble": "VC bolag i uppstart",
-    "xlent": "IT Consultant Company",
+    "bubble": "VC Bolag",
+    "xlent": "IT Consultant Company"
   },
   "career":{
     "my_career": "Karriär",
