@@ -5,29 +5,16 @@
   i18n: jalpc
   url: https://github.com/emilingemarkarlsson?tab=repositories
   img: /static/assets/img/landing/github.png
-  desc: This project is my code projects. I use javescript to get repo's information all my repos have only one request.
+  desc: This project is my code projects.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
-
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
+- name: XLENT
+  i18n: xlent
+  url:  https://www.xlent.se
+  img: /static/assets/img/landing/xlent.png
   desc: This is another project.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
-
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Bubble Ventures
+  i18n: bubble
+  url: https://upbeat-almeida-a4cc5d.netlify.com
+  img: /static/assets/img/landing/bubble.png
+  desc:
