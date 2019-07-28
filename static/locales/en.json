@@ -19,13 +19,13 @@
     "my_skills": "My Skills"
   },
   "projects":{
-    "my_projects": "My Projects",
+    "my_projects": "Some things I work on",
     "jalpc": "This project is my project.",
     "xlent": "IT Consultant Company",
     "bubble": "VC Company"
   },
   "career":{
-    "my_career": "My Career",
+    "my_career": "Career",
     "nextcode": "Nextcode",
     "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
     "nextcode_date": "Apr. 2016",
