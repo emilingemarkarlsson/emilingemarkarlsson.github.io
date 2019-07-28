@@ -20,9 +20,9 @@
   },
   "projects":{
     "my_projects": "My Projects",
-    "jalpc": "This project is my project. I use javescript to get repo's information all my repos have only one request.",
-    "cpython": "This project is other's project. I use another request to get repo's information.",
-    "familycode": "This is another project."
+    "jalpc": "This project is my project.",
+    "xlent": "IT Consultant Company",
+    "bubble": "VC Company"
   },
   "career":{
     "my_career": "My Career",
