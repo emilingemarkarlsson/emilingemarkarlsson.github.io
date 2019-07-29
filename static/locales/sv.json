@@ -5,7 +5,7 @@
   "nav":{
     "home": "Hem",
     "about_me": "Om",
-    "skills": "Kompetens",
+    "skills": "En vanlig dag",
     "projects": "Projekt",
     "career": "Karriär",
     "blog": "Blogg",
@@ -16,7 +16,7 @@
     "des": ""
   },
   "skills":{
-    "my_skills": "Kompetens"
+    "my_skills": "En vanlig dag"
   },
   "projects":{
     "my_projects": "Några saker jag jobbar med",

@@ -5,7 +5,7 @@
   "nav":{
     "home": "Home",
     "about_me": "About",
-    "skills": "Skills",
+    "skills": "My days",
     "projects": "Projects",
     "career": "Career",
     "blog": "Blog",
@@ -16,7 +16,7 @@
     "des": ""
   },
   "skills":{
-    "my_skills": "My Skills"
+    "my_skills": "My days"
   },
   "projects":{
     "my_projects": "Some things I work on",
