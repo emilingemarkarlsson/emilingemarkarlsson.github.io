@@ -13,7 +13,7 @@
   img: /static/assets/img/landing/xlent.png
   desc: This is another project.
 
-- name: Bubble Ventures
+- name: Bubble New Ventures
   i18n: bubble
   url: https://upbeat-almeida-a4cc5d.netlify.com
   img: /static/assets/img/landing/bubble.png
