@@ -98,3 +98,17 @@
     detail:
     i18n: company_b_job
   icon: fa-plus-square
+
+- name:
+    detail: HV71
+    i18n: company_b
+  desc:
+    detail: Hockey coach
+    i18n: company_b_desc
+  date:
+    detail: Aug. 2009
+    i18n: company_b_date
+  job:
+    detail:
+    i18n: company_b_job
+  icon: fa-plus-square
